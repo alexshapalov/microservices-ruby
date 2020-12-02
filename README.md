@@ -15,8 +15,9 @@ The microservice architecture enables the rapid, frequent and reliable delivery 
 
 https://microservices.io/
 
-## Event-sourcing 
+## Event-sourcing (gems, lib, etc.)
 
+http://docs.eventide-project.org/
 
 ## Ruby microservises examples
 
