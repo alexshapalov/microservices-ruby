@@ -15,7 +15,7 @@ The microservice architecture enables the rapid, frequent and reliable delivery 
 
 https://microservices.io/
 
-## Event-sourcing (gems, lib, etc.)
+## Event-sourcing (gems, libs)
 
 http://docs.eventide-project.org/
 
